@@ -1,4 +1,4 @@
 # student-marks-portal-demo
-repo desc
+repo description
 
 This is new content!!
